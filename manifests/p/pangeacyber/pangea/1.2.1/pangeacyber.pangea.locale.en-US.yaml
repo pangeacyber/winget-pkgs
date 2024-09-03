@@ -15,7 +15,10 @@ Moniker: pangea
 ReleaseNotes: |
   ## Changelog
   * b66ed1421efb24f578da50b266582a358d7b01f6 Add autocompletion on install
+  * daf717c3a34e2194febf813e7a8fb71f1aa9338e Add install script to manually install CLI
   * 375616ee2d69d1ec92f74b32477be08059ef78a1 Rename `README.md`
+  * 378791a6d5585bfe1cbfeee876b0b8d83ecbd7d9 Unify version value
+  * d6ccb64460180037c5a03c42d364d5e4e318001b Update readme with `troubleshooting` section
   * ed2b8255d5361537874f61a828c1bc6568f7153d fix `goreleaser.yaml`
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
