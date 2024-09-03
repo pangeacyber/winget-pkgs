@@ -14,6 +14,7 @@ ShortDescription: Pangea Cyber CLI
 Moniker: pangea
 ReleaseNotes: |
   ## Changelog
+  * b09aeda489de20ef9eea146f8f34353aa9374741 Add `download-and-install.sh` script to release
   * b66ed1421efb24f578da50b266582a358d7b01f6 Add autocompletion on install
   * daf717c3a34e2194febf813e7a8fb71f1aa9338e Add install script to manually install CLI
   * 375616ee2d69d1ec92f74b32477be08059ef78a1 Rename `README.md`
