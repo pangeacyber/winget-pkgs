@@ -16,6 +16,7 @@ ReleaseNotes: |
   ## Changelog
   * adec9b7dbfb89ca09f79d7d347ca00c1ad40edea Install autocompletion (#41)
   * 36c5af9799800ef65228d9bc32f7697c2384d15c Rename Readme.md to README.md
+  * 1d3c2fe19dea256e91e3f22b1ce80cd175ef5ab6 Update README with install instructions (#43)
   * 49869288cd35f1f205ba34031d5e226535b02dbd Updated installation instructions in Readme (#40)
   * 0d6b714e674de03c17f43ec3c3ee1bbfe8583fff build(deps): bump github.com/go-resty/resty/v2 from 2.13.1 to 2.14.0
 ManifestType: defaultLocale
