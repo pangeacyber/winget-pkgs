@@ -4,7 +4,7 @@ PackageIdentifier: pangeacyber.pangea
 PackageVersion: 2.0.0
 InstallerLocale: en-US
 InstallerType: zip
-ReleaseDate: "2024-10-16"
+ReleaseDate: "2024-11-19"
 Installers:
   - Architecture: x86
     NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: pangea.exe
         PortableCommandAlias: pangea
     InstallerUrl: https://github.com/pangeacyber/pangea-cli/releases/download/v2.0.0/pangea-windows-386.zip
-    InstallerSha256: 6bfcfeb3fafb759a266767ca314cad2540c076800086d63f8593fc7821bfaaef
+    InstallerSha256: 0e8da572b13227a6f5bcb2186e6ab39397945db161893664d9ed8bf1918fa007
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
     NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
       - RelativeFilePath: pangea.exe
         PortableCommandAlias: pangea
     InstallerUrl: https://github.com/pangeacyber/pangea-cli/releases/download/v2.0.0/pangea-windows-arm64.zip
-    InstallerSha256: 005842b2a3f37b6935da52478367d37556a795213d1f8390dc103db0b1e43950
+    InstallerSha256: 1e60895627f4d1d68fe72aad891d8afc2373dee08c13427048640c032d6bf7c6
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -28,7 +28,7 @@ Installers:
       - RelativeFilePath: pangea.exe
         PortableCommandAlias: pangea
     InstallerUrl: https://github.com/pangeacyber/pangea-cli/releases/download/v2.0.0/pangea-windows-amd64.zip
-    InstallerSha256: 24c9017d0d512c6ab77a903360c002e378f6da6424b68df34051859e0a0c0ca5
+    InstallerSha256: 57e07ba8d73a3d21937dd54d8ab41432aa1d5e8cfd2cf0a8eccdc2eb6c2354da
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.6.0
