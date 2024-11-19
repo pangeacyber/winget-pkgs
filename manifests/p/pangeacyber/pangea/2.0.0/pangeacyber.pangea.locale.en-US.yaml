@@ -15,7 +15,9 @@ Moniker: pangea
 ReleaseNotes: |
   ## Changelog
   * fbede820aa0a36b3ca8ac071ae5acce506f0aa39 CLI v2 (#50)
+  * 2419bedea6f51b5e131785c8106d8ebb53053870 Disable winget PR on release (#52)
   * 96622a3dad4e3a062c874cfe39e0dc7a86a8f720 Fix `main.go` path (#51)
+  * e97de6050b38225d2013131fda32d9436c680b0c Update module name to `pangea-cli` v2 (#53)
   * f480da2806fcc39c2f336a6cebca1cba46098971 build(deps): bump github.com/go-resty/resty/v2 from 2.14.0 to 2.15.0
   * 741950ff9661e1f734b377bcfc06fd128b3089f3 build(deps): bump github.com/go-resty/resty/v2 from 2.15.0 to 2.15.1
   * 7a99a4ecb15824432a3fac2cbd8af74b779cf712 build(deps): bump github.com/go-resty/resty/v2 from 2.15.1 to 2.15.2 (#47)
